@@ -1,0 +1,7 @@
+diff --git a/secrets.txt b/secrets.txt
+index 17b9cfc..ca927c3 100644
+--- a/secrets.txt
++++ b/secrets.txt
+@@ -1 +1,2 @@
+ сон 5
++сон
