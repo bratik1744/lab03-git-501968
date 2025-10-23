@@ -1,0 +1,23 @@
+*   c056d0e (origin/release, release) merge: backend_cuda → release
+|\  
+| * 29f6445 (origin/backend_cuda, backend_cuda) backend_cuda: сохранён diff последних двух коммитов в diff.txt
+| * 201cd62 backend_cuda: добавлена строка "сон" в secrets.txt
+| * dfe0fcd add secrets.txt 5
+| * 020e5dd add secrets.txt 4
+* |   565eef4 (HEAD -> main, origin/main) merge: feature2 → main (ожидаемый конфликт)
+|\ \  
+| * | da03ccb (origin/feature2, feature2) feature2 change
+* | |   2ed59a1 merge: feature1 → main
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 4f2a00f (origin/feature1, feature1) feature1 change
+| |/  
+| * 5e1a5ad (server_last, pr_feature, hotfix, hf_tests, gguf, backend_metal) add secrets.txt 5
+| * b11758d add secrets.txt 4
+* | bb7d980 main: добавлена строка "сон" после отката к 3-му коммиту
+|/  
+* db7ad1a add secrets.txt 3
+* 1382413 add secrets.txt 2
+* db8bea4 add secrets.txt 1
+* 00f553b init
